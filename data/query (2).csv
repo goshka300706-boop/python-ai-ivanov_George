@@ -1,0 +1,101 @@
+actor,actorLabel,birthCountryLabel,age
+http://www.wikidata.org/entity/Q489,Билл Мар,США,70
+http://www.wikidata.org/entity/Q607,Майкл Блумберг,США,84
+http://www.wikidata.org/entity/Q392,Боб Дилан,США,85
+http://www.wikidata.org/entity/Q8704,Уолт Дисней,США,125
+http://www.wikidata.org/entity/Q633,Нил Янг,Канада,81
+http://www.wikidata.org/entity/Q8289,Джэми Селкирк,Новая Зеландия,26
+http://www.wikidata.org/entity/Q8927,Марион Котийяр,Франция,51
+http://www.wikidata.org/entity/Q9535,Шахрух Хан,Индия,61
+http://www.wikidata.org/entity/Q23760,Роуэн Аткинсон,Великобритания,71
+http://www.wikidata.org/entity/Q512,Владимир Высоцкий,Россия,88
+http://www.wikidata.org/entity/Q765,Дарио Фо,Италия,100
+http://www.wikidata.org/entity/Q563,Брижитт Фонтэн,Франция,87
+http://www.wikidata.org/entity/Q853,Андрей Тарковский,Россия,94
+http://www.wikidata.org/entity/Q873,Мерил Стрип,США,77
+http://www.wikidata.org/entity/Q1744,Мадонна,США,68
+http://www.wikidata.org/entity/Q8877,Стивен Спилберг,США,80
+http://www.wikidata.org/entity/Q9543,Салман Хан,Индия,61
+http://www.wikidata.org/entity/Q9570,Амитабх Баччан,Индия,84
+http://www.wikidata.org/entity/Q9960,Рональд Рейган,США,115
+http://www.wikidata.org/entity/Q23814,Стивен Мерчант,Великобритания,52
+http://www.wikidata.org/entity/Q23844,Джордж Клуни,США,65
+http://www.wikidata.org/entity/Q29735,Натаниэль Бузолич,Австралия,43
+http://www.wikidata.org/entity/Q30449,Аврил Лавин,Канада,42
+http://www.wikidata.org/entity/Q23891,Эндрю Гарфилд,США,43
+http://www.wikidata.org/entity/Q30510,María Dolores Pradera,Испания,102
+http://www.wikidata.org/entity/Q31317,Шон Майклз,США,61
+http://www.wikidata.org/entity/Q31353,Адель Энель,Франция,37
+http://www.wikidata.org/entity/Q37876,Натали Портман,Израиль,45
+http://www.wikidata.org/entity/Q37628,Мила Кунис,Украина,43
+http://www.wikidata.org/entity/Q1698,Серж Генсбур,Франция,98
+http://www.wikidata.org/entity/Q1779,Луи Армстронг,США,125
+http://www.wikidata.org/entity/Q23880,Лила Даунс,Мексика,58
+http://www.wikidata.org/entity/Q2680,Брюс Уиллис,Германия,71
+http://www.wikidata.org/entity/Q24829,Орсон Уэллс,США,111
+http://www.wikidata.org/entity/Q32335,Ниа Вардалос,Канада,64
+http://www.wikidata.org/entity/Q32439,Стефан Одран,Франция,94
+http://www.wikidata.org/entity/Q31768,Садао Абэ,Япония,56
+http://www.wikidata.org/entity/Q31923,Бахман Гобади,Иран,57
+http://www.wikidata.org/entity/Q38875,Мос Деф,США,53
+http://www.wikidata.org/entity/Q39476,Эмма Уотсон,Франция,36
+http://www.wikidata.org/entity/Q39666,Пенелопа Крус,Испания,52
+http://www.wikidata.org/entity/Q39829,Стивен Кинг,США,79
+http://www.wikidata.org/entity/Q39792,Джек Николсон,США,89
+http://www.wikidata.org/entity/Q39805,Мария Кулле,Швеция,66
+http://www.wikidata.org/entity/Q882,Чарли Чаплин,Великобритания,137
+http://www.wikidata.org/entity/Q2190,Колюш,Франция,82
+http://www.wikidata.org/entity/Q2263,Том Хэнкс,США,70
+http://www.wikidata.org/entity/Q2071,Дэвид Линч,США,80
+http://www.wikidata.org/entity/Q2599,Пол Маккартни,Великобритания,84
+http://www.wikidata.org/entity/Q2291,Тото,Италия,128
+http://www.wikidata.org/entity/Q11998,Кайли Миноуг,Австралия,58
+http://www.wikidata.org/entity/Q12003,Шер,США,80
+http://www.wikidata.org/entity/Q13909,Анджелина Джоли,США,51
+http://www.wikidata.org/entity/Q34012,Марлон Брандо,США,102
+http://www.wikidata.org/entity/Q34424,Шакира,Колумбия,49
+http://www.wikidata.org/entity/Q34460,Гвинет Пэлтроу,США,54
+http://www.wikidata.org/entity/Q34529,Бела Лугоши,Румыния,144
+http://www.wikidata.org/entity/Q1785,Шарль Азнавур,Франция,102
+http://www.wikidata.org/entity/Q11617,Алия,США,47
+http://www.wikidata.org/entity/Q11485,Жан-Клод Килли,Франция,83
+http://www.wikidata.org/entity/Q10738,Дуэйн Джонсон,США,54
+http://www.wikidata.org/entity/Q2643,Джордж Харрисон,Великобритания,83
+http://www.wikidata.org/entity/Q11637,Джуди Гарленд,США,104
+http://www.wikidata.org/entity/Q12897,Пеле,Бразилия,86
+http://www.wikidata.org/entity/Q12881,Пауло Коэльо,Бразилия,79
+http://www.wikidata.org/entity/Q32923,Rituparno Ghosh,Индия,63
+http://www.wikidata.org/entity/Q24632,Джон Барроумэн,Великобритания,59
+http://www.wikidata.org/entity/Q31637,Джафар Панахи,Иран,66
+http://www.wikidata.org/entity/Q32342,Сонали Бендре,Индия,51
+http://www.wikidata.org/entity/Q24842,Улла Якобссон,Швеция,97
+http://www.wikidata.org/entity/Q33240,Дрейк,Канада,40
+http://www.wikidata.org/entity/Q32927,Валерий Яковлевич Леонтьев,Россия,77
+http://www.wikidata.org/entity/Q34086,Джастин Бибер,Канада,32
+http://www.wikidata.org/entity/Q34389,Уитни Хьюстон,США,63
+http://www.wikidata.org/entity/Q34436,Скарлетт Йоханссон,США,42
+http://www.wikidata.org/entity/Q38111,Леонардо Ди Каприо,США,52
+http://www.wikidata.org/entity/Q40096,Уилл Смит,США,58
+http://www.wikidata.org/entity/Q2737,Луи де Фюнес,Франция,112
+http://www.wikidata.org/entity/Q2709,Саша Грей,США,38
+http://www.wikidata.org/entity/Q10520,Дэвид Бекхэм,Великобритания,51
+http://www.wikidata.org/entity/Q11930,Кевин Костнер,США,71
+http://www.wikidata.org/entity/Q10731,Мик Фоли,США,61
+http://www.wikidata.org/entity/Q25014,Джон Клиз,Великобритания,87
+http://www.wikidata.org/entity/Q25078,Терри Гиллиам,США,86
+http://www.wikidata.org/entity/Q25080,Илья Львович Олейников,Молдова,79
+http://www.wikidata.org/entity/Q25089,Вуди Аллен,США,91
+http://www.wikidata.org/entity/Q25120,Пьер Паоло Пазолини,Италия,104
+http://www.wikidata.org/entity/Q34922,Диего Абатантуоно,Италия,71
+http://www.wikidata.org/entity/Q31733,Гару,Канада,54
+http://www.wikidata.org/entity/Q34851,Элизабет Тейлор,Великобритания,94
+http://www.wikidata.org/entity/Q34975,Брайан Кокс,Великобритания,80
+http://www.wikidata.org/entity/Q38119,Дэниэл Рэдклифф,Великобритания,37
+http://www.wikidata.org/entity/Q1203,Джон Леннон,Великобритания,86
+http://www.wikidata.org/entity/Q2831,Майкл Джексон,США,68
+http://www.wikidata.org/entity/Q1955,Густав Тёни,Италия,75
+http://www.wikidata.org/entity/Q1631,Эдит Пиаф,Франция,111
+http://www.wikidata.org/entity/Q1950,Альберто Томба,Италия,60
+http://www.wikidata.org/entity/Q2685,Арнольд Шварцнеггер,Австрия,79
+http://www.wikidata.org/entity/Q2673,Чак Норрис,США,86
+http://www.wikidata.org/entity/Q3772,Квентин Тарантино,США,63
